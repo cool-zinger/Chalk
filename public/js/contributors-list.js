@@ -29,5 +29,16 @@ export const contributors = [
     name: 'Kaustav',
     url: 'https://github.com/cool-zinger',
     peep: 'coffee'
+  },
+  {
+    name: 'atharva',
+    url: 'https://github.com/Devil-Atharva',
+    peep: 'hoodie',
+  },
+  {
+    name: 'Sagar Rai',
+    url: 'https://github.com/notdoneyet-wq/Chalk',
+    photo: 'https://github.com/notdoneyet-wq.png',
+    peep: 'hoodie',
   }
 ];
